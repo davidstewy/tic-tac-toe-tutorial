@@ -2,7 +2,7 @@
   "name": "tic-tac-toe-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourUserName.github.io/",
+  "homepage": "https://davidstewy.github.tic-tac-toe-tutorial/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
